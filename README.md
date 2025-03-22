@@ -1,20 +1,23 @@
 # Mémoire
 \Cours\M1\Mem\projet
 
-- Introduction (constats, enjeux, contexte, plan) [↩](#intro)
-- Cadre théorique / Etat de l'art [↩](#edla)
+Entre 35 à 55 pages => viser 40 pages
+
+
+- Introduction (constats, enjeux, contexte, plan, objectifs) [↩](#intro)
+- Cadre théorique / Etat de l'art (Notions clés) [↩](#edla)
 - Problématique [↩](#prob)
 - Méthodologie [↩](#meth)
 - Résultats de la recherche (enquête) [↩](#resu)
 - Conclusion réflexive / discussion [↩](#conc)
-- Bibliographie [↩](#bibl)
+- Bibliographie - sitographie [↩](#bibl)
 
 
 
-## Introduction (constats, enjeux, plan)<a name="intro"></a>
+## Introduction (constats, enjeux, contexte, plan, objectifs)<a name="intro"></a>
 Cette section présente le contexte de la recherche, les enjeux principaux du sujet, les constats qui ont conduit à l'étude, ainsi que le plan général de l'article. C'est une entrée en matière pour comprendre le thème et les objectifs de l'étude.
 
-## Cadre théorique/État de l’art<a name="edla"></a>
+## Cadre théorique/État de l’art (Notions clés)<a name="edla"></a>
 Il s'agit de la partie où sont exposés les concepts, théories, et recherches antérieures liés au sujet du mémoire. Cette section sert à situer le travail dans le contexte académique et à montrer sur quels fondements théoriques repose la recherche.
 
 ## Problématique<a name="prob"></a>
@@ -29,6 +32,6 @@ Ici, les résultats obtenus à partir de l’enquête ou de l'étude sont prése
 ## Conclusions / discussion<a name="conc"></a>
 Cette partie synthétise les principaux résultats et les interprète en les replaçant dans le contexte de la problématique initiale et du cadre théorique. La discussion explore les implications des résultats, leurs limites, et propose des perspectives pour de futures recherches.
 
-## Bibliographie<a name="bibl"></a>
+## Bibliographie - sitographie<a name="bibl"></a>
 C'est la liste des sources et références utilisées tout au long du mémoire. Elle inclut les ouvrages, articles, et autres documents consultés et cités dans le travail, permettant aux lecteurs de retrouver les informations et approfondir le sujet.
 
