@@ -20,7 +20,6 @@ Les enseignants d’anglais peuvent orienter leurs étudiants vers les parcours 
 Les modules sont accessibles depuis des plateformes numériques, et ont été conçus pour être compatibles avec les ordinateurs comme avec les appareils mobiles.
 
 ## 2. Plateformes utilisées
-[...]## 2. Plateformes utilisées
 
 Le dispositif repose actuellement sur **Chamilo**, une plateforme d’apprentissage open source utilisée à l’INP. Toutefois, dans un souci de convergence vers un écosystème plus intégré et robuste, la migration du contenu est envisagée vers **Moodle**, qui offre des possibilités étendues en matière de suivi des apprenants, de modularité des contenus, et d’interopérabilité avec d’autres outils pédagogiques (H5P, SCORM, etc.).
 
@@ -28,7 +27,7 @@ Cette transition vise également à renforcer la cohérence institutionnelle, da
 
 ## 3. Structure pédagogique des modules
 
-L’analyse du module “**Numbers**” permet de mettre en lumière la logique pédagogique des parcours Boost’English. Celui-ci est composé de 10 briques, allant de l’introduction à une tâche finale de production orale collaborative.
+L’analyse du module “**Numbers**” permet de mettre en lumière la logique pédagogique des parcours Boost’English. Celui-ci est composé de 11 activités, allant de l’introduction à une tâche finale de production orale collaborative.
 
 Les types d’activités proposés sont variés :
 - Compréhension orale avec écoute active et transcription de chiffres.
@@ -56,16 +55,17 @@ Cette séquence permet de travailler à la fois la compréhension, la mémorisat
 - Personnalisation des parcours encore faible : tous les étudiants suivent le même chemin, sans adaptation à leur niveau ou à leurs besoins.
 - Question de la pérennité des ressources externes (vidéos YouTube, par exemple), qui pourraient disparaître ou devenir inaccessibles.
 
+
 ## ✅ Tableau récapitulatif – État de l’art Boost’English
 
 | Aspect | Éléments constatés | Commentaires / Enjeux |
 |--------|--------------------|------------------------|
 | Objectifs | Développer l’aisance et la confiance en anglais (oral/écrit) | Approche communicative orientée tâche finale |
-| Public | Étudiants INP Grenoble | Filières et années à confirmer |
+| Public | Étudiants INP Grenoble : 21 étudiants identifiés en 2025 (répartis entre Ense3 et Génie Industriel) | Objectif d’augmentation pour renforcer la visibilité auprès d’IDEX |
 | Modalité | Formation hybride (auto-apprentissage + soutien en cours) | Compatible ordinateur et mobile |
 | Plateforme actuelle | Chamilo | Peu de visibilité institutionnelle, peu de suivi intégré |
 | Plateforme cible | Moodle | Meilleure interopérabilité, suivi et écosystème large |
-| Exemple de module | Numbers (10 briques) | Organisation cohérente, progression pédagogique claire |
+| Exemple de module | Numbers (10 activités) | Organisation cohérente, progression pédagogique claire |
 | Types d’activités | Écoute, répétition, tri, transcription, quiz, création, partage | Bonne variété, implication progressive des apprenants |
 | Points forts | Clarté, diversité des supports, compatibilité mobile, tâche finale engageante | Favorise l’autonomie, la mémorisation et la coopération |
 | Limites actuelles | Accessibilité, absence de suivi fin, dépendance à YouTube, pas d’adaptation au profil apprenant | Migration vers Moodle permettra d’y répondre |
