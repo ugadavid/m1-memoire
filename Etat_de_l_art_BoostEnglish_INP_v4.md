@@ -21,6 +21,10 @@ Les modules sont accessibles depuis des plateformes numériques, et ont été co
 
 ## 2. Plateformes utilisées
 
+Le dispositif repose actuellement sur **Chamilo**, une plateforme d’apprentissage open source utilisée à l’INP. Toutefois, dans un souci de convergence vers un écosystème plus intégré et robuste, la migration du contenu est envisagée vers **Moodle**, qui offre des possibilités étendues en matière de suivi des apprenants, de modularité des contenus, et d’interopérabilité avec d’autres outils pédagogiques (H5P, SCORM, etc.).
+
+Cette transition vise également à renforcer la cohérence institutionnelle, dans la mesure où Moodle tend à devenir la plateforme de référence au sein de l’INP.
+
 ## 3. Organisation pédagogique globale des contenus
 
 Le dispositif Boost’English est structuré de manière hiérarchique, selon une logique modulaire et thématique. Il repose sur :
@@ -43,14 +47,8 @@ La structure interne des activités suit généralement une progression pédagog
 9. **I want more** – Ressources complémentaires pour les apprenants volontaires
 
 Ce cadre commun permet à la fois une **uniformité de navigation** et une **progression pédagogique claire**, tout en laissant une marge de variation selon les thématiques abordées.
-## 2. Plateformes utilisées
-[...]## 2. Plateformes utilisées
 
-Le dispositif repose actuellement sur **Chamilo**, une plateforme d’apprentissage open source utilisée à l’INP. Toutefois, dans un souci de convergence vers un écosystème plus intégré et robuste, la migration du contenu est envisagée vers **Moodle**, qui offre des possibilités étendues en matière de suivi des apprenants, de modularité des contenus, et d’interopérabilité avec d’autres outils pédagogiques (H5P, SCORM, etc.).
-
-Cette transition vise également à renforcer la cohérence institutionnelle, dans la mesure où Moodle tend à devenir la plateforme de référence au sein de l’INP.
-
-## 3. Structure pédagogique des modules
+## 4. Structure pédagogique des modules
 
 L’analyse du module “**Numbers**” permet de mettre en lumière la logique pédagogique des parcours Boost’English. Celui-ci est composé de 10 briques, allant de l’introduction à une tâche finale de production orale collaborative.
 
@@ -64,7 +62,7 @@ Les types d’activités proposés sont variés :
 
 Cette séquence permet de travailler à la fois la compréhension, la mémorisation, la prononciation et l’utilisation active des nombres, dans une approche actionnelle et communicative.
 
-## 4. Points forts de l’existant
+## 5. Points forts de l’existant
 
 - Design attractif et structurant, avec une navigation claire et une progression bien définie.
 - Variété des supports (audio, vidéo, texte) et des formats d’activité.
@@ -72,7 +70,7 @@ Cette séquence permet de travailler à la fois la compréhension, la mémorisat
 - Compatibilité mobile, facilitant un usage nomade et flexible.
 - Approche centrée sur l’apprenant, qui gagne en autonomie au fil des briques.
 
-## 5. Limites et pistes d’amélioration
+## 6. Limites et pistes d’amélioration
 
 - Accessibilité : les polices, contrastes et tailles pourraient être ajustés pour répondre aux standards d’accessibilité numérique.
 - Suivi des étudiants encore limité dans Chamilo : absence de données centralisées sur la progression, le temps passé, ou les scores obtenus.
@@ -90,7 +88,7 @@ Cette séquence permet de travailler à la fois la compréhension, la mémorisat
 | Modalité | Formation hybride (auto-apprentissage + soutien en cours) | Compatible ordinateur et mobile |
 | Plateforme actuelle | Chamilo | Peu de visibilité institutionnelle, peu de suivi intégré |
 | Plateforme cible | Moodle | Meilleure interopérabilité, suivi et écosystème large |
-| Exemple de module | Numbers (10 activités) | Organisation cohérente, progression pédagogique claire |
+| Exemple de module | Numbers (11 activités) | Organisation cohérente, progression pédagogique claire |
 | Types d’activités | Écoute, répétition, tri, transcription, quiz, création, partage | Bonne variété, implication progressive des apprenants |
 | Points forts | Clarté, diversité des supports, compatibilité mobile, tâche finale engageante | Favorise l’autonomie, la mémorisation et la coopération |
 | Limites actuelles | Accessibilité, absence de suivi fin, dépendance à YouTube, pas d’adaptation au profil apprenant | Migration vers Moodle permettra d’y répondre |
