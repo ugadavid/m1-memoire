@@ -92,4 +92,4 @@ Cette séquence permet de travailler à la fois la compréhension, la mémorisat
 | Types d’activités | Écoute, répétition, tri, transcription, quiz, création, partage | Bonne variété, implication progressive des apprenants |
 | Points forts | Clarté, diversité des supports, compatibilité mobile, tâche finale engageante | Favorise l’autonomie, la mémorisation et la coopération |
 | Limites actuelles | Accessibilité, absence de suivi fin, dépendance à YouTube, pas d’adaptation au profil apprenant | Migration vers Moodle permettra d’y répondre |
-| Enjeux à venir | Accessibilité, traçabilité, IA, personnalisation, notation, inscription, simplification pour les enseignants | Besoin de solutions techniques et pédagogiques pérennes |
+| Enjeux à venir | Accessibilité, traçabilité, IA, personnalisation, notation, inscription, simplification pour les enseignants, prévention de la triche : l’essor des IA génératives impose de repenser certaines tâches pour garantir leur authenticité. | Besoin de solutions techniques et pédagogiques pérennes |
