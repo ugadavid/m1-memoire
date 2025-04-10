@@ -93,3 +93,17 @@ Cette séquence permet de travailler à la fois la compréhension, la mémorisat
 | Points forts | Clarté, diversité des supports, compatibilité mobile, tâche finale engageante | Favorise l’autonomie, la mémorisation et la coopération |
 | Limites actuelles | Accessibilité, absence de suivi fin, dépendance à YouTube, pas d’adaptation au profil apprenant | Migration vers Moodle permettra d’y répondre |
 | Enjeux à venir | Accessibilité, traçabilité, IA, personnalisation, notation, inscription, simplification pour les enseignants, prévention de la triche : l’essor des IA génératives impose de repenser certaines tâches pour garantir leur authenticité. | Besoin de solutions techniques et pédagogiques pérennes |
+
+
+# Echantillon
+
+[Page web](https://www.participatory-english-design-project.fr/faq.html)
+
+# Bibliographie :
+- Annie Jézégou
+- Vygotski - Pensée et langage
+- Holec, H. (1981). Autonomie et apprentissage des langues étrangères.
+- Lebrun, M. (2005). Vers une pédagogie universitaire efficace.
+- Perrenoud, P. (1999). Apprendre à l’école : pourquoi ? Comment ?
+- Jorro, A. (2010). La posture réflexive...
+- Charlier & Peraya (2003). Apprendre avec les technologies...
